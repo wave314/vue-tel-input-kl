@@ -183,7 +183,7 @@ As you see, we don't use Vue SFC `<style></style>` tag here to import component'
 Clone the project
 
 ```bash
-  git clone https://github.com/iamstevendao/vue-tel-input.git
+  git clone [https://github.com/iamstevendao/vue-tel-input.git](https://github.com/wave314/vue-tel-input-kl.git)
 ```
 
 Go to the project directory
